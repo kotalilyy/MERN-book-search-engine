@@ -8,16 +8,16 @@ I took a fully functioning Google Books API search engine built with a RESTful A
 
 ## Table of Contents
 
--[Description](#description)
--[Table of Contents](#table-of-contents)
--[Live Link](#live-link)
--[Usage](#usage)
--[Installation](#installation)
--[Tests](#tests)
--[License](#license)
--[Credits](#credits)
--[Contributions](#contributions)
--[Questions](#questions)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Live Link](#live-link)
+  - [Usage](#usage)
+  - [Installation](#installation)
+  - [Tests](#tests)
+  - [License](#license)
+  - [Credits](#credits)
+  - [Contributions](#contributions)
+  - [Questions](#questions)
 
 ## Live Link
 
