@@ -25,6 +25,8 @@ I took a fully functioning Google Books API search engine built with a RESTful A
 
 ## Usage
 
+[Sequelize](https://www.npmjs.com/package/sequelize)
+
 ## Installation
 
 ```bash
