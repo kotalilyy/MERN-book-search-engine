@@ -11,7 +11,6 @@ I took a fully functioning Google Books API search engine built with a RESTful A
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Live Link](#live-link)
-  - [Usage](#usage)
   - [Installation](#installation)
   - [Tests](#tests)
   - [License](#license)
@@ -22,10 +21,6 @@ I took a fully functioning Google Books API search engine built with a RESTful A
 ## Live Link
 
 [Live Link]()
-
-## Usage
-
-[Sequelize](https://www.npmjs.com/package/sequelize)
 
 ## Installation
 
