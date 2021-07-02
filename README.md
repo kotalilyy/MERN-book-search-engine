@@ -12,7 +12,6 @@ I took a fully functioning Google Books API search engine built with a RESTful A
   - [Table of Contents](#table-of-contents)
   - [Live Link](#live-link)
   - [Installation](#installation)
-  - [Tests](#tests)
   - [License](#license)
   - [Credits](#credits)
   - [Contributions](#contributions)
@@ -27,8 +26,6 @@ I took a fully functioning Google Books API search engine built with a RESTful A
 ```bash
 npm install
 ```
-
-## Tests
 
 ## License
 
