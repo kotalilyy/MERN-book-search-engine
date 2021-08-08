@@ -10,16 +10,11 @@ I took a fully functioning Google Books API search engine built with a RESTful A
 
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
-  - [Live Link](#live-link)
   - [Installation](#installation)
   - [License](#license)
   - [Credits](#credits)
   - [Contributions](#contributions)
   - [Questions](#questions)
-
-## Live Link
-
-[Live Link](https://kotalilyy.github.io/MERN-book-search-engine/)
 
 ## Installation
 
