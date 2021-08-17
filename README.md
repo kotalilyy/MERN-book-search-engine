@@ -1,26 +1,10 @@
-# MERN-book-search-engine
+# book-search
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 ## Description
 
-I took a fully functioning Google Books API search engine built with a RESTful API, and refactored it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. You can use this app to search for new books to read, and create a list of books to purchase.
-
-## Table of Contents
-
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
-  - [License](#license)
-  - [Credits](#credits)
-  - [Contributions](#contributions)
-  - [Questions](#questions)
-
-## Installation
-
-```bash
-npm install
-```
+I took a fully functioning Google Books API search engine built with a RESTful API, and refactored it to be a GraphQL API built with Apollo Server. You can use this app to search for new books to read, and create a list of books to purchase.
 
 ## License
 
